@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: MigrateForge public benchmarks
+message: If you cite these scorecards, please also cite the canonical proof page.
+type: dataset
+authors:
+  - family-names: Palanisamy
+    given-names: Karthick
+    affiliation: MigrateForge
+url: https://github.com/Kuttyshal/migrateforge-benchmarks
+repository-code: https://github.com/Kuttyshal/migrateforge-benchmarks
+license: CC-BY-4.0
+keywords:
+  - php
+  - java
+  - spring-boot
+  - migration
+  - parity
+  - codeigniter
+  - benchmark
+references:
+  - type: website
+    title: MigrateForge Proof
+    url: https://migrateforge.com/proof/
