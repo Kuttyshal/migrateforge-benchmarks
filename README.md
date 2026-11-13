@@ -6,7 +6,7 @@ Sanitized **100/100/100** parity scorecards for MigrateForge’s published PHP �
 
 | Suite | Role | Result |
 | --- | --- | --- |
-| **4 migrated waves** | WA Blast Pro waves 1–2 + InvoicePlane waves 1–2 | **858** verified journeys at **100/100/100** parity, write-effect diffs **0** |
+| **4 migrated waves** | WA Blast Pro waves 1–2 + InvoicePlane waves 1–2 | **858** verified journeys at **100/100/100** parity (193+379+133+153), write-effect diffs **0** |
 | **Q07 CI3 conformance** | CodeIgniter 3 adapter suite (not an app migration wave) | **83/83** fixtures at **100/100/100** |
 
 Both application suites are **benchmarks**, not client projects. WA Blast Pro is MigrateForge’s own production multi-tenant SaaS (source is **not** in this repo). InvoicePlane is open source: [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane).
