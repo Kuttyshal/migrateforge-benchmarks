@@ -20,6 +20,7 @@ Both application suites are **benchmarks**, not client projects. WA Blast Pro is
 | [InvoicePlane wave 1](scorecards/invoiceplane-wave-1.md) | 133/133 | 134/138 |
 | [InvoicePlane wave 2](scorecards/invoiceplane-wave-2.md) | 153/153 | 153/153 |
 | [Q07 CI3 conformance](scorecards/ci3-conformance-q07.md) | 83/83 | — |
+| [T02 seeded catch rate](scorecards/catch-rate-t02.md) | WABP1 **57.14%** (24/42); IP1 **35.89%** (14/39) | — |
 
 Sum of the four application waves: **858** matched fixtures.
 
